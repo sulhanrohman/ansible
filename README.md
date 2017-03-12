@@ -1,7 +1,7 @@
 ## ansible
 this page will guide get in to ansible
-### playbook with roles
-example of playbook calling roles
+### playbook with roles and files
+example of playbook calling roles and copying file 
 #### playbook calling roles with condition 
 create one playbook and execute the specific roles for specific server 
 ### playbook with vault 
